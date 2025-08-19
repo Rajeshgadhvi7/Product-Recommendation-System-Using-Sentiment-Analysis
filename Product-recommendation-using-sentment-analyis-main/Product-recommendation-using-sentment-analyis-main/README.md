@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project builds a **Product Recommendation System** powered by **Sentiment Analysis** to provide highly accurate recommendations. Developed as part of a project at **IIT Roorkee**, it combines **collaborative filtering** with **sentiment scores** derived from product reviews, using Machine Learning (ML) and Natural Language Processing (NLP) techniques for enhanced recommendation quality.
+This project builds a **Product Recommendation System** powered by **Sentiment Analysis** to provide highly accurate recommendations. Developed as part of a project at **IIT Bombay**, it combines **collaborative filtering** with **sentiment scores** derived from product reviews, using Machine Learning (ML) and Natural Language Processing (NLP) techniques for enhanced recommendation quality.
 
 ---
 
@@ -67,7 +67,7 @@ This project builds a **Product Recommendation System** powered by **Sentiment A
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Omshrivastav12/product-recommendation-sentiment-analysis.git
+   git clone https://github.com/rajeshgadhvi7/product-recommendation-sentiment-analysis.git
    cd product-recommendation-sentiment-analysis
    ```
 
@@ -99,8 +99,7 @@ This project builds a **Product Recommendation System** powered by **Sentiment A
 
 Feel free to reach out for questions or support:
 
-- **Name**: Om Subhash Shrivastav
-- **Email**: omshrivastav1005@gmail.com
-- **GitHub**: [Omshrivastav12](https://github.com/Omshrivastav12)
+- **Name**: Rajesh gadhvi
+- **Email**: rajesh7gadhvi@gmail.com- **GitHub**: [Rajeshgadhvi7](https://github.com/Rajeshgadhvi7)
 
 Happy recommending! 🌟
